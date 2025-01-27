@@ -1,5 +1,3 @@
-# Namenjen za testiranje test_student.py
-
 import unittest
 from student_result import StudentResult
 
